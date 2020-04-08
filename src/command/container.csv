@@ -1,0 +1,3 @@
+command,source,category,channelType,permission
+help,helper,information,all,user
+invite,invite,information,all,user
